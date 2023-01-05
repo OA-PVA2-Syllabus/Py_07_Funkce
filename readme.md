@@ -8,7 +8,7 @@ Deklarujte funkce `hello`, která vypíše text `Hello world`
 Pomocí cyklu použijte funkci `hello` 5krát. tzn. text `hello world` bude vypsán pětkrát.
 
 ### 3 
-Deklarujte funkci `showHello`, jenž bude mít vsutpní parametr count. Vstupním parametrem count budete určovat, kolikrát se funkce hello vypíše. 
+Deklarujte funkci `showHello`, jenž bude mít vstupní parametr count. Vstupním parametrem count budete určovat, kolikrát se funkce hello zavolá a vypíše výstupní hodnota. 
 Použijte funkci showHello s argumentem dle uvážení
 
 ### 4
