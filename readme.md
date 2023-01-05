@@ -13,10 +13,14 @@ Použijte funkci showHello s argumentem dle uvážení
 
 ### 4
 Definujte funkci `square`, jenž bude vracet vypočítanou hodnotu druhé mocniny zadané do vstupního parametru.
+
 Vyzkoušejte zavolat druhé mocniny čísel 4, 8, 15, 23, -1
 
 ### 5
-Pomocí funkce `sumOfTwo`, vytvořte součet dvou čísel. K návratové hodnotě nepoužívejte funkci print.
+a) Pomocí funkce `sumOfTwo`, vytvořte součet dvou čísel. Uvnitř fce využijte vhodně funkci return.
+
+b) Sečtěte dvakrát výsledek volání funkce `sumOfTwo` a výsledek zobrazte uživateli. Každé volání fce bude mít jiné argumenty.
+
 
 ### 6
 Sestavte funkci `multiply`, jenž bude obsahovat tři parametry a, b, c. Nastavte výchozí hodnotu parametru b na 2 a c na 10. Funkce bude vracet provádět matematickou operaci a násobí b a přičítá c.
