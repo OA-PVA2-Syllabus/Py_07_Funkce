@@ -25,5 +25,19 @@ b) Sečtěte dvakrát výsledek volání funkce `sumOfTwo` a výsledek zobrazte 
 ### 6
 Sestavte funkci `multiply`, jenž bude obsahovat tři parametry a, b, c. Nastavte výchozí hodnotu parametru b na 2 a c na 10. Funkce bude vracet provádět matematickou operaci a násobí b a přičítá c.
 
+
 ### 7
+Sestavte funkci `listsum`, které pomocí parametru předáte seznam čísel. Funkce spočítá a vypíše součet čísel v seznamu, která jsou kladná, nebo jsou menší než -10.
+
+Například pro seznam `-12, -11, -10, -9, 0, 1, 2, 3` bude výstup programu vypadat následovně:
+
+Součet čísel, která jsou kladná, nebo jsou menší než -10 je -17.
+
+Vytvořte dvě proměnné a uložte do nich dva seznamy:
+* `-14, -12, -10, 1, 2, 3`
+* `1,1,1, -11, -11, -11`
+
+Vyzkoušete funkci pro oba seznamy.
+
+### 8
 Sestavte funkci `faktorial`, která bude vracet hodnotu faktoriálu zadaného v argumentu. Výsledek faktoriálu zobrazte uživateli.
