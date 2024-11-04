@@ -1,5 +1,5 @@
 # PVA2 - Programování a vývoj aplikací
-## Cvičení 07: Funkce
+## Cvičení 09: Funkce
 
 ### 1
 Deklarujte funkce `hello`, která vypíše text `Hello world`
