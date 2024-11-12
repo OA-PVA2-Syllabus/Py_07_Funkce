@@ -2,7 +2,7 @@
 ## Cvičení 09: Funkce
 
 ### 1
-Deklarujte funkce `hello`, která vypíše text `Hello world`
+Deklarujte funkce `hello`, která vypíše text `Hello world`.
 
 ### 2
 Pomocí cyklu použijte funkci `hello` 5krát. tzn. text `hello world` bude vypsán pětkrát.
