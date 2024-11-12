@@ -25,8 +25,17 @@ b) Sečtěte dvakrát výsledek volání funkce `sumOfTwo` a výsledek zobrazte 
 ### 6
 Sestavte funkci `multiply`, jenž bude obsahovat tři parametry a, b, c. Nastavte výchozí hodnotu parametru b na 2 a c na 10. Funkce bude vracet provádět matematickou operaci a násobí b a přičítá c.
 
-
 ### 7
+`barvy = ["red", "green", "blue", "white"]`
+
+Napište funkci 'add_unique', která jako vstup přijme seznam a prvek. Funkce přidá prvek do seznamu pouze v případě, že se v seznamu ještě nenachází.
+
+### 8
+`barvy = ["red", "green", "blue", "white", "red", "black", "orange", "black"]`
+
+Deklarujte funkci remove_duplicates, která přijme na vstupu seznam řetězců a vrátí nový seznam obsahující pouze unikátní prvky ze vstupního seznamu.
+
+### 9
 Sestavte funkci `listsum`, které pomocí parametru předáte seznam čísel. Funkce spočítá a vypíše součet čísel v seznamu, která jsou kladná, nebo jsou menší než -10.
 
 Například pro seznam `-12, -11, -10, -9, 0, 1, 2, 3` bude výstup programu vypadat následovně:
@@ -39,5 +48,12 @@ Vytvořte dvě proměnné a uložte do nich dva seznamy:
 
 Vyzkoušete funkci pro oba seznamy.
 
-### 8
+### 10
 Sestavte funkci `faktorial`, která bude vracet hodnotu faktoriálu zadaného v argumentu. Výsledek faktoriálu zobrazte uživateli.
+
+### 11
+Napište funkci, která přijme na vstup slovo a vrátí jeho vypočtenou "hodnotu" na základě následujících pravidel:
+- Souhlásky mají hodnotu 1 bodu.
+- Samohlásky mají hodnotu 3 bodů.
+- Písmeno "x" má hodnotu 10 bodů.
+- Všechny ostatní znaky mají hodnotu 0 bodů.
